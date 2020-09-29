@@ -5,7 +5,7 @@ This program is using the Monte Carlo method to simulate the atom behavior at a 
 
 For the results, the first plot is the original distribution of atoms 'A' and 'B'. the second one is the distribution after Monte Carlo Simulation the third figure is the energy changes throughout those process.eworks.
 
-required packages: 
+#### required packages: 
 certifi==2019.3.9 
 chardet==3.0.4 
 cycler==0.10.0 
